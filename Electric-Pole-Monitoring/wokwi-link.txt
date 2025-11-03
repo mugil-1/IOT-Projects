@@ -1,1 +1,1 @@
-[Wokwi Simulation Link](https://wokwi.com/projects/410367786725774337)
+<a href="https://wokwi.com/projects/410367786725774337">Open Wokwi Simulation</a>
